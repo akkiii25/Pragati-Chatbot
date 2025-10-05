@@ -1,0 +1,6 @@
+Flask==3.0.3
+gTTS==2.5.1
+pygame==2.5.2
+psutil==5.9.8
+wikipedia==1.4.0
+gunicorn==21.2.0
